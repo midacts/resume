@@ -1,8 +1,3 @@
----
-layout: default
-title: Resume
----
-
 # John McCarthy
 
 Chattanooga, TN - [mccarthyjpatrick@gmail.com](mailto:mccarthyjpatrick@gmail.com)&nbsp;&nbsp;[<img src="mdimages/github.png" width="25">](https://www.github.com/midacts)&nbsp;&nbsp;[<img src="mdimages/linkedin.png" width="25">](https://linkedin.com/in/johnmcc)
