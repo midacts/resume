@@ -74,10 +74,12 @@ _10/2015 - 04/2018_
 
 <p align="center" style="font-size:2em;">Certifications</p>
 
-- [AWS Certified Cloud Practitioner](https://aw.certmetrics.com/amazon/public/verification.aspx) - 6K1G74G1ME44Q8WK
-- [CCNA - Security](https://www.youracclaim.com/badges/daf69240-8eb7-46ac-93fd-c087fc773c3d)
-- [CCNA](https://www.youracclaim.com/badges/3e7f2b2a-1ce3-4010-bafa-ee4baaf53d16)
-- [Linux+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=EXDTJLZC1BFQQ9W5)
-- [Project+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=EXDTJLZC1BFQQ9W5)
-- [Security+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=EXDTJLZC1BFQQ9W5)
-- [Network+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=EXDTJLZC1BFQQ9W5)
+- 12/2019 - [AWS Certified Solutions Architect - Associate](https://aw.certmetrics.com/amazon/public/verification.aspx) - 638XMXG2N2QE115Z
+- 06/2019 - [AWS Certified Cloud Practitioner](https://aw.certmetrics.com/amazon/public/verification.aspx) - 6K1G74G1ME44Q8WK
+- 03/2018 - [CCNA - Security](https://www.youracclaim.com/badges/daf69240-8eb7-46ac-93fd-c087fc773c3d)
+- 02/2018 - [CCNA](https://www.youracclaim.com/badges/3e7f2b2a-1ce3-4010-bafa-ee4baaf53d16)
+- 10/2016 - [Linux+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=EXDTJLZC1BFQQ9W5)
+- 03/2016 - [Project+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=EXDTJLZC1BFQQ9W5)
+- 01/2016 - [Security+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=EXDTJLZC1BFQQ9W5)
+- 11/2015 - [Network+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=EXDTJLZC1BFQQ9W5)
+- 09/2012 - [A+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=EXDTJLZC1BFQQ9W5)
