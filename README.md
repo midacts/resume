@@ -2,7 +2,7 @@
 
 Chattanooga, TN - [mccarthyjpatrick@gmail.com](mailto:mccarthyjpatrick@gmail.com)&nbsp;&nbsp;[<img src="mdimages/github.png" width="25">](https://www.github.com/midacts)&nbsp;&nbsp;[<img src="mdimages/linkedin.png" width="25">](https://linkedin.com/in/johnmcc)
 
-## Devops Engineer / Cloud Architect
+## Devops Engineer / Cloud Engineer
 
 <p align="center" style="font-size:2em;">Skills</p>
 
@@ -14,7 +14,7 @@ IAM, S3, EC2, RDS, VPC, Security groups, Lambda, Organizations, CloudWatch, Clou
 
 __AzureAD__: App registrations, Enterprise applications, MFA, Conditional access policies<br/>
 __App services__: App service environments, App service plan, App gateways, Function and Web apps<br/>
-Virtual machines, SQL server, SQL databases, Virtual networks, ASG, NSG, Key vaults
+__Other services__: Azure Kubernetes Service, Virtual machines, SQL server, SQL databases, Virtual networks, ASG, NSG, Key vaults<br/>
 
 #### Architecting Cloud Solutions
 
@@ -31,7 +31,7 @@ Red Hat Linux, CentOS, Debian, Ubuntu, OpenSuse
 
 #### Other Tools
 
-PowerShell, Python, Ruby, Golang, Javascript, HTML, CSS, BASH, SQL, REST and SOAP APIs
+PowerShell, Python, Golang, Ruby, Javascript, HTML, CSS, BASH, SQL, REST and SOAP APIs
 VS Code, Git, Docker, Kubernetes, Ansible Tower, Ansible, Red Hat Cloudforms, Infoblox IPAM, ITSM
 
 <p align="center" style="font-size:2em;">Experience</p>
