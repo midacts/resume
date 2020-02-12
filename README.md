@@ -8,7 +8,7 @@ Chattanooga, TN - [mccarthyjpatrick@gmail.com](mailto:mccarthyjpatrick@gmail.com
 
 #### AWS
 
-IAM, S3, EC2, RDS, VPC, Security groups, Lambda, Organizations, CloudWatch, CloudTrail, CloudFormation, SSO
+IAM, S3, EC2, RDS, VPC, Security groups, Elastic Beanstalk, Lambda, Organizations, CloudWatch, CloudTrail, CloudFormation, SSO
 
 #### Azure
 
@@ -22,16 +22,18 @@ Designed and built application deployments utilizing DevOps tools including Terr
 
 #### CI / CD
 
-Created pipelines using PowerShell, Pester, TFS and Gitlab
+Created pipelines using PowerShell, Pester, Docker, Kubernetes, TFS and Gitlab
 
 #### Operating Systems
 
-Microsoft Windows 2000, 2003, 2008, 2012, 2016, 2019
+Windows Server 2000 - 2019
+
 Red Hat Linux, CentOS, Debian, Ubuntu, OpenSuse
 
 #### Other Tools
 
-PowerShell, Python, Golang, Ruby, Javascript, HTML, CSS, BASH, SQL, REST and SOAP APIs
+PowerShell, Python, Golang, Ruby, Javascript, HTML, CSS, BASH, SQL, REST and SOAP APIs,
+
 VS Code, Git, Docker, Kubernetes, Ansible Tower, Ansible, Red Hat Cloudforms, Infoblox IPAM, ITSM
 
 <p align="center" style="font-size:2em;">Experience</p>
