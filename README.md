@@ -47,7 +47,7 @@ __Chattanooga, TN:__ ___09/2014 - Present___
 - Worked with multiple teams to architect and implement our AWS and Microsoft Azure environments
 - Developed continuous integration/continuous deployment (CI/CD) pipelines to streamline code reviews and deployments
 - Implemented automated testing standards to maintain the code quality of our entire codebase
-- Created automation for end user self service using multiple programing languages and orchestration
+- Created automation for end user self-service using multiple programing languages and orchestration
 - Implemented Hashicorp Terraform and Vault to manage our on-premises and cloud infrastructures
 - Maintained a work schedule that complied with the Agile Project Management model
 - Used Ansible Tower and Ansible to perform Azure, Windows, Linux and VMware automation
