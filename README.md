@@ -44,12 +44,12 @@ __IT Operations Engineer (Automation & Cloud Focus)__<br/>
 __Chattanooga, TN:__ ___09/2014 - Present___
 
 - Member of an agile team that setup an AWS environment that saved TVA millions of dollars a year by sending backups to the cloud
-- Worked with multiple teams to architect our AWS and Microsoft Azure clouds infrastructure
+- Worked with multiple teams to architect and implement our AWS and Microsoft Azure environments
 - Developed continuous integration/continuous deployment (CI/CD) pipelines to streamline code reviews and deployments
 - Implemented automated testing standards to maintain the code quality of our entire codebase
 - Created automation for end user self service using multiple programing languages and orchestration
 - Implemented Hashicorp Terraform and Vault to manage our on-premises and cloud infrastructures
-- Maintained a work schedule that complies with the Agile Project Management model
+- Maintained a work schedule that complied with the Agile Project Management model
 - Used Ansible Tower and Ansible to perform Azure, Windows, Linux and VMware automation
 
 ## Orthobanc
@@ -61,11 +61,11 @@ __Chattanooga, TN:__ ___04/2012 - 09/2014___
 - Used Powershell and BASH scripting to automate Windows/Linux server, AD, and VMware infrastructure
 - PBX and VOIP support for all users and devices. Also setup IVR and Auto Attendant scripts
 - Maintained all VPN access with RSA SecureID and PKI
-- Setup and maintained our Wireless infrastructure by running CAT5e cabling, building a FreeRadius infrastructure for WPA2-Enterprise authentication
+- Setup and maintained our Wireless infrastructure and FreeRadius infrastructure for WPA2-Enterprise authentication
 - Exchange 2007 and Exchange 2010 installation, mailbox and OWA support and ActiveSync for mobile device setup
-- Active Directory administration on both 2003 and 2012 domain levels performing Group Policy and Organizational Unit management, and user and group management
+- Active Directory administration on both 2003 and 2012 domain levels. Performed group policy, OU and user and group management
 - Involved with fulfilling PCI DSS 2.0 and 3.0 requirements
-- Involved in a new building design and an entire datacenter and office relocation
+- Assisted in a new building design including a datacenter and office relocation
 
 <p align="center" style="font-size:2em;">Education</p>
 
