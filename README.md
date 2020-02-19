@@ -47,7 +47,7 @@ __Chattanooga, TN:__ ___09/2014 - Present___
 - Worked with multiple teams to architect and implement our AWS and Microsoft Azure environments
 - Developed continuous integration/continuous deployment (CI/CD) pipelines to streamline code reviews and deployments
 - Implemented automated testing standards to maintain the code quality of our entire codebase
-- Created automation for end user self-service using multiple programing languages and orchestration
+- Created automation for end user self-service using multiple programming languages and orchestration
 - Implemented Hashicorp Terraform and Vault to manage our on-premises and cloud infrastructures
 - Maintained a work schedule that complied with the Agile Project Management model
 - Used Ansible Tower and Ansible to perform Azure, Windows, Linux and VMware automation
@@ -57,7 +57,7 @@ __Chattanooga, TN:__ ___09/2014 - Present___
 __System Administrator / Tech Support__<br/>
 __Chattanooga, TN:__ ___04/2012 - 09/2014___
 
-- Implemented an Open-Source Puppet Master with the Foreman and Salt Stack to automate and manage our Linux infrastructure
+- Implemented an Open-Source Puppet Master with the Foreman and SaltStack to automate and manage our Linux infrastructure
 - Used Powershell and BASH scripting to automate Windows/Linux server, AD, and VMware infrastructure
 - PBX and VOIP support for all users and devices. Also setup IVR and Auto Attendant scripts
 - Maintained all VPN access with RSA SecureID and PKI
@@ -78,6 +78,7 @@ _10/2015 - 04/2018_
 
 - 12/2019 - [AWS Certified Solutions Architect - Associate](https://aw.certmetrics.com/amazon/public/verification.aspx) - 638XMXG2N2QE115Z
 - 06/2019 - [AWS Certified Cloud Practitioner](https://aw.certmetrics.com/amazon/public/verification.aspx) - 6K1G74G1ME44Q8WK
+- 02/2020 - [Microsoft Certified: Azure Fundamentals](https://www.youracclaim.com/badges/852e7819-d589-4524-864d-883551649a59)
 - 03/2018 - [CCNA - Security](https://www.youracclaim.com/badges/daf69240-8eb7-46ac-93fd-c087fc773c3d)
 - 02/2018 - [CCNA](https://www.youracclaim.com/badges/3e7f2b2a-1ce3-4010-bafa-ee4baaf53d16)
 - 10/2016 - [Linux+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=EXDTJLZC1BFQQ9W5)
