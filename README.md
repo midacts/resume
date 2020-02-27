@@ -78,6 +78,7 @@ _10/2015 - 04/2018_
 
 - 12/2019 - [AWS Certified Solutions Architect - Associate](https://aw.certmetrics.com/amazon/public/verification.aspx) - 638XMXG2N2QE115Z
 - 06/2019 - [AWS Certified Cloud Practitioner](https://aw.certmetrics.com/amazon/public/verification.aspx) - 6K1G74G1ME44Q8WK
+- 02/2020 - [Microsoft Certified: Azure Administrator Associate](https://www.youracclaim.com/badges/63d15641-f5b4-40ca-bd5d-25567e3e0747)
 - 02/2020 - [Microsoft Certified: Azure Fundamentals](https://www.youracclaim.com/badges/852e7819-d589-4524-864d-883551649a59)
 - 03/2018 - [CCNA - Security](https://www.youracclaim.com/badges/daf69240-8eb7-46ac-93fd-c087fc773c3d)
 - 02/2018 - [CCNA](https://www.youracclaim.com/badges/3e7f2b2a-1ce3-4010-bafa-ee4baaf53d16)
