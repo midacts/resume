@@ -45,12 +45,14 @@ __Chattanooga, TN:__ ___09/2014 - Present___
 
 - Member of an agile team that setup an AWS environment that saved TVA millions of dollars a year by sending backups to the cloud
 - Worked with multiple teams to architect and implement our AWS and Microsoft Azure environments
+- Member of a team that designed, implemented and maintained Azure Kubernetes Service (AKS) in production
+- Used automation and CI/CD pipelines to deploy Docker containers to Kubernetes
 - Developed continuous integration/continuous deployment (CI/CD) pipelines to streamline code reviews and deployments
 - Implemented automated testing standards to maintain the code quality of our entire codebase
 - Created automation for end user self-service using multiple programming languages and orchestration
 - Implemented Hashicorp Terraform and Vault to manage our on-premises and cloud infrastructures
-- Maintained a work schedule that complied with the Agile Project Management model
 - Used Ansible Tower and Ansible to perform Azure, Windows, Linux and VMware automation
+- Maintained a work schedule that complied with the Agile Project Management model
 
 ## Orthobanc
 
@@ -59,7 +61,7 @@ __Chattanooga, TN:__ ___04/2012 - 09/2014___
 
 - Implemented an Open-Source Puppet Master with the Foreman and SaltStack to automate and manage our Linux infrastructure
 - Used Powershell and BASH scripting to automate Windows/Linux server, AD, and VMware infrastructure
-- PBX and VOIP support for all users and devices. Also setup IVR and Auto Attendant scripts
+- Provided PBX and VOIP support for all users and devices. Also setup IVR and Auto Attendant scripts
 - Maintained all VPN access with RSA SecureID and PKI
 - Setup and maintained our Wireless infrastructure and FreeRadius infrastructure for WPA2-Enterprise authentication
 - Exchange 2007 and Exchange 2010 installation, mailbox and OWA support and ActiveSync for mobile device setup
